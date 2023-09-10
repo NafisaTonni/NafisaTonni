@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nafisatonni" alt="nafisatonni" /></a> </p>
 
-- 🌱 I’m currently learning **Selenium**
+- 🌱 I’m currently learning **Selenium, REST API, and Database Testing along with discovering new possibilities in core Java.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NafisaTonni?tab=repositories](https://github.com/NafisaTonni?tab=repositories)
 
